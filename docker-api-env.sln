@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker-api-env.api", "src\docker-api-env.api\docker-api-env.api.csproj", "{19359968-6467-4DBC-9D7D-9808FD1DB151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docker-api-env.dependency", "src\docker-api-env.dependency\docker-api-env.dependency.csproj", "{2BE58EBE-E7A7-4FF9-AEA1-F0D6AE8D3F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19359968-6467-4DBC-9D7D-9808FD1DB151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19359968-6467-4DBC-9D7D-9808FD1DB151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19359968-6467-4DBC-9D7D-9808FD1DB151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19359968-6467-4DBC-9D7D-9808FD1DB151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE58EBE-E7A7-4FF9-AEA1-F0D6AE8D3F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE58EBE-E7A7-4FF9-AEA1-F0D6AE8D3F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE58EBE-E7A7-4FF9-AEA1-F0D6AE8D3F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE58EBE-E7A7-4FF9-AEA1-F0D6AE8D3F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01FEA8B-1DBD-4E42-8F09-AB928BFD640E}
+	EndGlobalSection
+EndGlobal
